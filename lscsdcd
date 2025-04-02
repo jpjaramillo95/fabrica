@@ -1,0 +1,23 @@
+[33mcommit 9c2c335b4c7a245781435599feb7bfa181d923b8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Robinson <robinquiroz57@gmail.com>
+Date:   Tue Apr 1 20:44:16 2025 -0500
+
+    feat se hace llamado a la funciones en el archivo central
+
+[33mcommit 9772742b1d3dccc8acc9972528563875c4cabda4[m
+Author: Robinson <robinquiroz57@gmail.com>
+Date:   Tue Apr 1 19:53:19 2025 -0500
+
+    feat se crea funcion mostrarPedido
+
+[33mcommit ed6ecb6c0747cd5dc554cbfe408125b11b7e5595[m
+Author: Robinson <robinquiroz57@gmail.com>
+Date:   Tue Apr 1 19:43:41 2025 -0500
+
+    feat se crea funcion agregarPieza y funcion crearPieza
+
+[33mcommit b0b8b53319818db2e4a2418df5fccf58e3cf08f0[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Robinson <robinquiroz57@gmail.com>
+Date:   Tue Apr 1 19:04:32 2025 -0500
+
+    Feat se crea main para app de fabrica corona
